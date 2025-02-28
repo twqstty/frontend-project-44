@@ -2,7 +2,6 @@
 
 import readlineSync from 'readline-sync';
 
-// Функция для вычисления НОД (алгоритм Евклида)
 const getGCD = (a, b) => {
   while (b !== 0) {
     const temp = b;

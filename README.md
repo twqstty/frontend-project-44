@@ -11,8 +11,6 @@
 #задание 5
 Игра "Наибольший общий делитель". Пользователю предлагается найти НОД двух случайных чисел.
 ```bash
-npm install
-npm link
 git clone https://github.com/twqstty/frontend-project-44.git
 brain-even
 Welcome to the Brain Games!

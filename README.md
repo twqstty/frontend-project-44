@@ -6,21 +6,14 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/twqstty/frontend-project-44.git
-# Brain Games
-## Установка
-```bash
-npm install
-npm link
+   git clone https://github.com/twqstty/frontend-project-44.
+   
 #задание 5
 Игра "Наибольший общий делитель". Пользователю предлагается найти НОД двух случайных чисел.
 ```bash
 npm install
 npm link
 git clone https://github.com/twqstty/frontend-project-44.git
-cd frontend-project-44
-npm install
-npm link
 brain-even
 Welcome to the Brain Games!
 May I have your name? Cristiano Ronaldo

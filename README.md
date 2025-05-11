@@ -7,6 +7,8 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/twqstty/frontend-project-44.
+![Brain-calc](https://github.com/user-attachments/assets/de4706cb-3533-469e-a782-5ab92301590d)
+
    
 
 

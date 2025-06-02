@@ -1,7 +1,4 @@
 #!/usr/bin/env node
-import {imya} from '../src/cli.js';
+import {imya} from '../src/cli.js'
 
-
-imya();
-
-
+imya()
